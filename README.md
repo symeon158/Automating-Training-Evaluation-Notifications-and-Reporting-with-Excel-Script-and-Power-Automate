@@ -5,20 +5,20 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Script Details](#script-details)
-  - [Data Extraction and Filtering](#data-extraction-and-filtering 📊)
+  - [Data Extraction and Filtering](#data-extraction-and-filtering)
   - [Date Validation](#date-validation)
   - [Integration with Power Automate](#integration-with-power-automate)
   - [Automated Reporting](#automated-reporting)
 - [Benefits](#benefits)
 - [Code](#code)
-- [Contact](#contact)
+
 
 ## Project Overview
 This project leverages Excel Script and Power Automate to automate the training evaluation process. It dynamically generates and sends personalized emails with pre-filled Microsoft Forms for trainees to provide feedback, and compiles the responses into a report for analysis.
 
 ## Script Details
 
-### Data Extraction and Filtering 📊
+### Data Extraction and Filtering
 The script identifies a specific table in an Excel worksheet and extracts key columns including Email, Completion Date, Training Subject, Training Topic, Institute, Status, and Trainee Name.
 It processes each row to filter out entries based on several conditions:
 - The training must not be an "Induction Training."
@@ -26,16 +26,16 @@ It processes each row to filter out entries based on several conditions:
 - The status of the training must be marked as "Completed."
 - The trainee must have a valid email address.
 
-### Date Validation 📅
+### Date Validation
 The script calculates if the training completion date plus an additional three days matches the current date.
 If this condition is met, it collects the necessary details into an array.
 
-### Integration with Power Automate 🤖
+### Integration with Power Automate
 The script's output is used to dynamically generate and send emails to the trainees.
 Each email contains a link to a Microsoft Forms evaluation form, which is pre-filled with details such as the training subject, topic, institute, and trainee name.
 This ensures that each trainee receives a personalized evaluation form, making it easier for them to provide feedback.
 
-### Automated Reporting 📈
+### Automated Reporting
 The data collected from the evaluation forms is automatically compiled into a report.
 This report provides valuable insights into the training effectiveness and helps in making data-driven decisions for future training programs.
 
