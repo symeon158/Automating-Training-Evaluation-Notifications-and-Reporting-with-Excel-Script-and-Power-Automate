@@ -19,7 +19,7 @@ This project leverages Excel Script and Power Automate to automate the training 
 ## Script Details
 
 ### Data Extraction and Filtering 📊
-The script identifies a specific table in an Excel worksheet (Table4) and extracts key columns including Email, Completion Date, Training Subject, Training Topic, Institute, Status, and Trainee Name.
+The script identifies a specific table in an Excel worksheet and extracts key columns including Email, Completion Date, Training Subject, Training Topic, Institute, Status, and Trainee Name.
 It processes each row to filter out entries based on several conditions:
 - The training must not be an "Induction Training."
 - The training institute must not be "Udemy."
