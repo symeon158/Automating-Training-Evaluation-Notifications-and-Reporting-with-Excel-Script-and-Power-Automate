@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Script Details](#script-details)
-  - [Data Extraction and Filtering](#data-extraction-and-filtering)
+  - [Data Extraction and Filtering](#data-extraction-and-filtering 📊)
   - [Date Validation](#date-validation)
   - [Integration with Power Automate](#integration-with-power-automate)
   - [Automated Reporting](#automated-reporting)
