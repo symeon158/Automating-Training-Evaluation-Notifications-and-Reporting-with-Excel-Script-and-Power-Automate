@@ -35,6 +35,9 @@ The script's output is used to dynamically generate and send emails to the train
 Each email contains a link to a Microsoft Forms evaluation form, which is pre-filled with details such as the training subject, topic, institute, and trainee name.
 This ensures that each trainee receives a personalized evaluation form, making it easier for them to provide feedback.
 
+![image](https://github.com/symeon158/Automating-Training-Evaluation-Notifications-and-Reporting-with-Excel-Script-and-Power-Automate/assets/106148298/4662f7c6-ec45-40da-960b-48fc3822e2e8)
+
+
 ### Automated Reporting
 The data collected from the evaluation forms is automatically compiled into a report.
 This report provides valuable insights into the training effectiveness and helps in making data-driven decisions for future training programs.
