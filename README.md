@@ -37,6 +37,8 @@ This ensures that each trainee receives a personalized evaluation form, making i
 
 ![image](https://github.com/symeon158/Automating-Training-Evaluation-Notifications-and-Reporting-with-Excel-Script-and-Power-Automate/assets/106148298/4662f7c6-ec45-40da-960b-48fc3822e2e8)
 
+![image](https://github.com/symeon158/Automating-Training-Evaluation-Notifications-and-Reporting-with-Excel-Script-and-Power-Automate/assets/106148298/ddd4ab04-87fe-4e59-a07b-703e9d42ba41)
+
 
 ### Automated Reporting
 The data collected from the evaluation forms is automatically compiled into a report.
