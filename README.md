@@ -40,7 +40,8 @@ This ensures that each trainee receives a personalized evaluation form, making i
 
 ![image](https://github.com/symeon158/Automating-Training-Evaluation-Notifications-and-Reporting-with-Excel-Script-and-Power-Automate/assets/106148298/ddd4ab04-87fe-4e59-a07b-703e9d42ba41)
 
-![image](https://github.com/user-attachments/assets/439eb701-42f7-40aa-996c-ff3b893d0475)
+![image](https://github.com/user-attachments/assets/8947656f-c35a-433d-9468-f644e55bcc93)
+
 
 
 
